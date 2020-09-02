@@ -16,7 +16,7 @@
 - 增加遠端節點 - git remote add XXX(遠端節點) XXX(本地)
 - 推送到github - git push XXX(遠端節點) XXX(本地)
 - 從github下載 - git pull XXX(遠端節點) XXX(本地)
-  ex: git push ict master (本資料夾為例) 
+  ex: git pull ict master (本資料夾為例) 
 
 
 
